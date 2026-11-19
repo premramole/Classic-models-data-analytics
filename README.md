@@ -3,8 +3,6 @@ Classic Models: Sales & Customer Analytics
 
 An end-to-end analytics project using SQL, Python, and Power BI
 
-<img src="assets/classic_models_logo.jpg" alt="Classic Models Logo" width="160" />
-
 Dataset Power BI Python MySQL
 
 </div>
@@ -258,8 +256,7 @@ The dashboard reads from CSV files, so it does not update automatically.
 Repository Structure
 text
 classic-models-data-analytics/
-├── assets/                       # Logo and dashboard screenshots
-│   ├── classic_models_logo.jpg
+├── assets/                       # Dashboard screenshots
 │   ├── dashboard_page1.png
 │   ├── dashboard_page2.png
 │   └── dashboard_page3.png
@@ -289,7 +286,8 @@ classic-models-data-analytics/
 │   ├── powerbi_data_prep.py
 │   └── ecommerce_sales_analysis.ipynb
 ├── powerbi/
-│   └── README_POWERBI.md         # DAX measures and dashboard build guide
+│   ├── ClassicModels_Dashboard.pbix   # Power BI report
+│   └── README_POWERBI.md              # DAX measures and dashboard build guide
 ├── documentation/                # Data dictionary, model notes, project write-up
 │   ├── data_dictionary.md
 │   ├── data_quality_report.md
@@ -301,8 +299,8 @@ classic-models-data-analytics/
 How to Run It
 1. Database (MySQL)
 bash
-git clone https://github.com/premramole/classic-models-data-analytics.git
-cd classic-models-data-analytics/sql
+git clone https://github.com/premramole/Classic-models-data-analytics.git
+cd Classic-models-data-analytics/sql
 
 # Run the scripts in order in MySQL Workbench or the command line
 mysql -u root -p < 01_create_database.sql
