@@ -1,0 +1,24 @@
+employeeNumber,lastName,firstName,jobTitle,email,extension,officeCode,officeCity,officeCountry,territory,reportsTo,fullName
+1002,Murphy,Diane,President,dmurphy@classicmodelcars.com,x5800,1,San Francisco,USA,NA,0,Diane Murphy
+1056,Patterson,Mary,VP Sales,mpatterso@classicmodelcars.com,x4611,1,San Francisco,USA,NA,1002,Mary Patterson
+1076,Firrelli,Jeff,VP Marketing,jfirrelli@classicmodelcars.com,x9273,1,San Francisco,USA,NA,1002,Jeff Firrelli
+1088,Patterson,William,Sales Manager (APAC),wpatterson@classicmodelcars.com,x4871,6,Sydney,Australia,APAC,1056,William Patterson
+1102,Bondur,Gerard,Sale Manager (EMEA),gbondur@classicmodelcars.com,x5408,4,Paris,France,EMEA,1056,Gerard Bondur
+1143,Bow,Anthony,Sales Manager (NA),abow@classicmodelcars.com,x5428,1,San Francisco,USA,NA,1056,Anthony Bow
+1165,Jennings,Leslie,Sales Rep,ljennings@classicmodelcars.com,x3291,1,San Francisco,USA,NA,1143,Leslie Jennings
+1166,Thompson,Leslie,Sales Rep,lthompson@classicmodelcars.com,x4065,1,San Francisco,USA,NA,1143,Leslie Thompson
+1188,Firrelli,Julie,Sales Rep,jfirrelli@classicmodelcars.com,x2173,2,Boston,USA,NA,1143,Julie Firrelli
+1216,Patterson,Steve,Sales Rep,spatterson@classicmodelcars.com,x4334,2,Boston,USA,NA,1143,Steve Patterson
+1286,Tseng,Foon Yue,Sales Rep,ftseng@classicmodelcars.com,x2248,3,NYC,USA,NA,1143,Foon Yue Tseng
+1323,Vanauf,George,Sales Rep,gvanauf@classicmodelcars.com,x4102,3,NYC,USA,NA,1143,George Vanauf
+1337,Bondur,Loui,Sales Rep,lbondur@classicmodelcars.com,x6493,4,Paris,France,EMEA,1102,Loui Bondur
+1370,Hernandez,Gerard,Sales Rep,ghernande@classicmodelcars.com,x2028,4,Paris,France,EMEA,1102,Gerard Hernandez
+1401,Castillo,Pamela,Sales Rep,pcastillo@classicmodelcars.com,x2759,4,Paris,France,EMEA,1102,Pamela Castillo
+1501,Bott,Larry,Sales Rep,lbott@classicmodelcars.com,x2311,7,London,UK,EMEA,1102,Larry Bott
+1504,Jones,Barry,Sales Rep,bjones@classicmodelcars.com,x102,7,London,UK,EMEA,1102,Barry Jones
+1611,Fixter,Andy,Sales Rep,afixter@classicmodelcars.com,x101,6,Sydney,Australia,APAC,1088,Andy Fixter
+1612,Marsh,Peter,Sales Rep,pmarsh@classicmodelcars.com,x102,6,Sydney,Australia,APAC,1088,Peter Marsh
+1619,King,Tom,Sales Rep,tking@classicmodelcars.com,x103,6,Sydney,Australia,APAC,1088,Tom King
+1621,Nishi,Mami,Sales Rep,mnishi@classicmodelcars.com,x101,5,Tokyo,Japan,Japan,1056,Mami Nishi
+1625,Kato,Yoshimi,Sales Rep,ykato@classicmodelcars.com,x102,5,Tokyo,Japan,Japan,1621,Yoshimi Kato
+1702,Gerard,Martin,Sales Rep,mgerard@classicmodelcars.com,x2312,4,Paris,France,EMEA,1102,Martin Gerard
